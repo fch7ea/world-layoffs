@@ -24,4 +24,4 @@ Some of the SQL keywords and functions used are as follows:
 
 ## Attribution
 
-This project is based on Alex the Analyst's YouTube tutorial found [here](https://www.youtube.com/watch?v=OT1RErkfLNQ).
+Based on Alex the Analyst's YouTube tutorial found [here](https://www.youtube.com/watch?v=OT1RErkfLNQ).
